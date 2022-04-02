@@ -53,7 +53,7 @@ body{
     letter-spacing: 1px;
 }
 .button-group button{
-    background-color: rgba(0, 0, 0, 0.322);
+    background: linear-gradient(45deg,rgba(0, 0, 0, 0.322),rgba(255, 255, 255, 0.322));
     color: white;
     border: none;
     padding: 10px 15px;
